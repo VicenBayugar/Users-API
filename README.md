@@ -12,7 +12,7 @@ This is my first API made with the purpose of studying Node, Express and MongoDB
 
 ## Documentation
 
-- [Documentation]([https://expo.dev/@vicenbayugar/weather-app?serviceType=classic&di](https://documenter.getpostman.com/view/21281685/Uz5Gmb6y))
+- [Documentation](https://documenter.getpostman.com/view/21281685/Uz5Gmb6y)
 
 ## Update
 
